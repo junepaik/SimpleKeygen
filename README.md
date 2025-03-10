@@ -1,3 +1,5 @@
+# SimpleKeygen
+
 Generates a set number of keys in XXXXXX-XXXXXX-XXXXXX format.
 
 Example usage:
