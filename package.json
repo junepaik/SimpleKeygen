@@ -1,0 +1,15 @@
+{
+  "name": "simple-keygen",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anton Romanov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "randomstring": "^1.3.1"
+  }
+}
